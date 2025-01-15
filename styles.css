@@ -1,0 +1,25 @@
+.main {
+    background-color: yellowgreen;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.one {
+    background-color: orange;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    font-size: medium;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: block;
+}
+
+.two {
+    background-color: lightblue;
+}
+
+.three {
+    background-color: lightcoral;
+}
